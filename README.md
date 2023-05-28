@@ -1,4 +1,4 @@
-# sbd
+# SBD
 Sentence boundary detection for machine translation
 
 ## Benchmarks
@@ -12,7 +12,7 @@ Sentence boundary detection for machine translation
 #### Libraries tested
 - [Argos Translate 2 beta](https://github.com/argosopentech/argos-translate/tree/v2)
 - [Stanza](https://stanfordnlp.github.io/stanza/)
-- [https://spacy.io/](https://spacy.io/)
+- [Spacy](https://spacy.io/)
 
 #### Data
 The data is from Wikipedia and I (native English speaker) manually split the sentences. Currently only English data is used but this script can easily be extended for more languages.
